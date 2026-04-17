@@ -1,0 +1,22 @@
+### Java ###
+*.class
+*.jar
+*.war
+*.ear
+
+### Virtual Environments (Cho các môn AI/Python) ###
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+### IDEs (Các file cấu hình của phần mềm viết code) ###
+.vscode/
+.idea/
+*.swp
+*.iml
+
+### OS (File rác của hệ điều hành) ###
+.DS_Store
+Thumbs.db
